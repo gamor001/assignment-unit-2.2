@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We made a variable called named and set it the string called Dane. 
+// We check if the variable name is strictly eaqual to the name Mary. If so console log is Hi Mary.
+// If it is not equal we console log, How do you do? 
+//Dane is not equal to Mary therefore console.log equals How do you do?
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// The variable is secret. 
+// The variable code is equal to 123. 
+// If the variable code is strisctly eaqual to 123. Then secret equals super. Code equals code times 2.
+//If variable code is greater than 250. Then secret equals duper. 
 
 //CODE
 /*
@@ -70,9 +70,9 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// The variable isStudent equals true. The variable age equals 34.  
+// The variable zip equals 55407
+// If variable is Student is strictly equal to true
 //
 
 //CODE
